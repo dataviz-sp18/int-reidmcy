@@ -1,6 +1,10 @@
 ---
-title: "Tabset Row"
-output: flexdashboard::flex_dashboard
+title: "Iris K-Means Clustering"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    social: menu
+    source_code: embed
 runtime: shiny
 ---
 
@@ -9,16 +13,50 @@ options(shiny.sanitize.errors = FALSE)
 library(ggplot2)
 library(plotly)
 library(plyr)
+library(xkcdcolors)
 library(flexdashboard)
-df <- read.csv('/home/reid/int-reidmcy/data/tsne_Economics.csv')
+
+if (dir.exists('data/')) {
+  filesDir <- 'data/'
+} else {
+  filesDir <- '/home/reid/int-reidmcy/data/'
+} 
+
+
+names <- c('econ', 'so', 'psy', 'com')
+files <- c('tsne_Economics.csv', 'tsne_Stack Overflow.csv', 'tsne_Psychology & Neuroscience.csv', 'tsne_combined.csv')
+colours <- c(name2color("light orange"), name2color("light blue"), name2color("light green"), name2color("black"))
+
+df_attributes <- data.frame(file=files, colour=colours, row.names=names)
+#row.names(df_attributes) <- names
+
+plot2D <- function(targetName, colour) {
+  df <- reactive({read.csv(paste(filesDir, df_attributes[targetName,'file'], sep = ''))})
+  p <- ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
+            geom_text(nudge_x = 1, nudge_y = 1, size = 4, colour = df_attributes[targetName,'colour'])
+  ggplotly(p)
+}
+library(datasets)
+data(iris)
 ```
 
-### Frame 1
+Column {.sidebar}
+-----------------------------------------------------------------------
 
 ```{r}
-p <- ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
-            geom_text(nudge_x = 1, nudge_y = 1, size = 5)      # Use hollow circles
-ggplotly(p)
+selectInput('xcol', 'X Variable', names)
 ```
 
+Column
+-----------------------------------------------------------------------
+
+### K Means
+```{r}
+df <- reactive({
+  read.csv(paste(filesDir, df_attributes[input$xcol,'file'], sep = ''))
+})
+
+renderPlot({ ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
+            geom_text(nudge_x = 1, nudge_y = 1, size = 4, colour = df_attributes[targetName,'colour'])
+})
 ```
