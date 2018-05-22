@@ -53,9 +53,13 @@ df_target <- reactive({
 })
 
 
-renderPlot({ 
+renderPlotly({ 
   tsne_plot <- ggplot(data = df_target(), aes(x=tsne_0, y=tsne_1, label=tag)) +
-          geom_text(size = 4)
-  tsne_plot
+    geom_text(size = 4) +
+    theme(plot.title = element_text(size =12),
+        axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+        panel.background=element_blank())
+  ggplotly(tsne_plot)
 })
 ```
