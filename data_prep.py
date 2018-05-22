@@ -3,9 +3,9 @@ import os
 import seaborn
 
 colours = {
-    'Economics' : 'orange',
-    'Stack Overflow' : 'blue',
-    'Psychology & Neuroscience' : 'green',
+    'Economics' : seaborn.xkcd_rgb['light orange'],
+    'Stack Overflow' : seaborn.xkcd_rgb['medium blue'],
+    'Psychology & Neuroscience' : seaborn.xkcd_rgb['light green'],
 }
 
 

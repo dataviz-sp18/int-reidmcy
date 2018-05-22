@@ -147,7 +147,7 @@ renderPlotly({
       geom_text(colour=colour_val)
   } else {
     tsne_plot <- tsne_plot +
-      geom_point(colour=colour_val, pch=1)
+      geom_point(colour=colour_val, fill=colour_val, pch=1)
   }
   tsne_plot <- tsne_plot +
     labs(title = input$var) +
