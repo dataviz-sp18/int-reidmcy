@@ -18,7 +18,7 @@ def main():
         df['cName'] = df['class'].apply(lambda x: x if x != 'Stack Overflow' else 'Computer Science')
         df['colour_class'] =df['class'].apply(lambda x : colours[x])
         df['rank'] = range(numWords)
-        df['size_objs'] = df['rank'].apply(lambda x : (numWords - x) / numWords) + 1
+        df['size_objs'] = df['rank'].apply(lambda x : (numWords - x) / numWords) + .2
         df['alpha_val'] = df['rank'].apply(lambda x : .8 * (numWords - x) / numWords + .2)
         df.to_csv('data/{}'.format(file.name))
 

@@ -42,6 +42,11 @@ df_attributes <- data.frame(file=files, colour=colours, row.names=target_names)
 Column {.sidebar}
 -----------------------------------------------------------------------
 
+### Introduction
+
+On the right is a plot showing t-SNE embedding of 100-500 words  (depending on the options selected) in a 200 dimensional word2vec space (PCA was used to go from 200 to 50). The words are from the tags on three websites: stackoverflow.com, economics.stackexchange.com and psychology.stackexchange.com, while the embedding. is trained on abstracts and title of 1.5 Million social science papers. The goal of this application is to let you explore the word2vec space and see how different words and contexts effect it. To do this there are three different ways of visualizing it and the datasets can either be combined ore viewed separately.
+
+
 ```{r}
 pickerInput(inputId = 'var',
             label = 'Dataset',
@@ -53,15 +58,49 @@ pickerInput(inputId = 'choice',
             choices = choices_names,
             selected ='Points')
 
+```
 
+### Dataset Discussion
+
+```{r}
+
+renderText({
+  if (input$var == 'Combined') {
+    out <- "This is the combined set of tags from all three datasets with one t-SNE embedding. You can see in the 2D plots how how separable they are. In the 3D it is much less obvious, mostly due to the limitations of 3D. It seems that computer science words are more isolated than the other two, but not by a large margin. Despite the dataset tripling in size there still are some outliers, interestingly they are not the same as the outliers with one dataset. Tere are a couple of words that are shared between the vocabularies so they are displayed twice"
+  } else if (input$var == 'Economics') {
+  out <- "This is the tags from economics.stackexchange.com. The power of the t-SNE embedding is evident as there are clusters, e.g. one seem to focus on probability/risk (just right of the center) while another on optimization/programming (lower left side), but there is also a central ball around money/trade showing the homogeneity of the word usage. In 3D there are a few interesting outliers, namely 'bitcoin' (near the camera) and 'political-economy' (up high).
+"
+  } else if (input$var == 'Economics') {
+  out <- "This is the tags from psychology.stackexchange.com It is similar to economics with a central blob, although there does seem to be bias towards computational words, likely due to the community being small and on a very technical site. The collection of chemicals in the upper right shows that they are being treated differently than the other words, which meets expectations. In 3D a few outliers can be found 'Jung' is the most interesting ads it shows a major problem in word embedding, homonyms, Jung is the name of many people and they get referenced in many places, not just where Carl might be."
+  } else if (input$var == 'Stack Overflow') {
+  out <- "This is the tags from stackoverflow.com They had be filtered as the pool was much larger than the others. There is an interesting bi modal effect in the 2D plots, most visible in the points plot. It is somewhat unclear what causes the two clusters, although one seems to be more front end and the other back end. In 3D there is one main extreme, 'tabs' which is likely do to many people talking about tagging/tags in many contexts outside of computer science."
+    }
+  out
+})
+```
+
+
+### Display Discussion
+
+```{r}
+
+renderText({
+  if (input$choice == '3D') {
+    out <- "The 3D plot was very annoying to get running, and the customization options were either lacking or broken, thus the axis are still ugly and the legend festers in the corner. The plot is very useful though as by adding another dimension the embedding changes significantly, the spherical nature of the results is still very evident, but outliers start appearing which is quite interesting and visually intriguing. I tried getting a 3D version of the text running but every piece of text would have had to been placed individually in a big for loop and it was too slow and unreliable "
+  } else if (input$choice == 'Text') {
+  out <- "These are the closest plots to those in my thesis, although I was not able to get alpha scaling to work. The words do tend to overlap, but zooming in will solve that and besides very aggressive alpha or size scaling it's hard to fix. The words are scaled by the rank on stackexchange with the processing all being done by a Python script before R is even launched. The colours are also handled this way to give consistency across the different visuals."
+  } else if (input$choice == 'Points') {
+  out <- "The points provide the cleaster view of the data, at the cost of showing little else, you don't get the ease of cluster interpreation that text gives you or the outliers that 3D does, but the hover text helps (it was annoying to setup). "
+  }
+  out
+})
 ```
 
 Column
 -----------------------------------------------------------------------
 
-### K Means
+### t-SNE embeding of Word2Vec space
 ```{r}
-
 
 df_target <- reactive({
   if (input$choice == '3D' ||input$choice ==  'Table 3D') {
@@ -76,8 +115,8 @@ renderPlotly({
   if (input$choice == '3D') {
     p <- plot_ly(df_target(), x=~tsne_0, y=~tsne_1, z=~tsne_2, color = ~colour_class, size = ~size_objs * 5,
                 hoverinfo = 'text', type='scatter3d',
-                text = ~paste('Source: ', cName,
-                  '\nTag: ', tag,
+                text = ~paste('Tag: ', tag,
+                  '\nSource: ', cName,
                   '\n Count: ', count,
                   '\n Rank: ', rank))
     add_markers(p)
@@ -85,8 +124,8 @@ renderPlotly({
     p
   } else {
     tsne_plot <- ggplot(data = df_target(), aes(x=tsne_0, y=tsne_1, label=tag, size = size_objs , colour=colour_class, fill=colour_class, 
-                                                 text = paste('Source: ', cName,
-                                                              '\nTag: ', tag,
+                                                 text = paste('Tag: ', tag,
+                                                              '\nSource: ', cName,
                                                               '\n Count: ', count,
                                                               '\n Rank: ', rank)))
   if (input$choice == 'Text') {
@@ -97,7 +136,7 @@ renderPlotly({
       geom_point(colour=name2color("dark grey"), pch=21)
   }
   tsne_plot <- tsne_plot +
-    labs(title = "2D t-SNE embeding") +
+    labs(title = input$var) +
     theme(plot.title = element_text(size =12),
         axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
         axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank(),
@@ -106,6 +145,5 @@ renderPlotly({
   ggplotly(tsne_plot, tooltip = c("text"))
   } 
 })
-
 
 ```
