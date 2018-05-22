@@ -5,6 +5,7 @@ runtime: shiny
 ---
 
 ```{r global, include=FALSE}
+options(shiny.sanitize.errors = FALSE)
 library(ggplot2)
 library(plotly)
 library(plyr)
@@ -16,8 +17,8 @@ Column
 -----------------------------------------------------------------------
 
 ```{r}
-p <- ggplot(df, aes(x=tsne_0, y=tsne_1)) +
-            geom_point(shape=1)      # Use hollow circles
+p <- ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
+            geom_text()      # Use hollow circles
 ggplotly(p)
 ```
 
