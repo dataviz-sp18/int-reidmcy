@@ -10,15 +10,14 @@ library(ggplot2)
 library(plotly)
 library(plyr)
 library(flexdashboard)
-df <- read.csv('data/tsne_Economics.csv')
+df <- read.csv('/home/reid/int-reidmcy/data/tsne_Economics.csv')
 ```
 
-Column
------------------------------------------------------------------------
+### Frame 1
 
 ```{r}
 p <- ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
-            geom_text()      # Use hollow circles
+            geom_text(nudge_x = 1, nudge_y = 1, size = 5)      # Use hollow circles
 ggplotly(p)
 ```
 
