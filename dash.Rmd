@@ -1,5 +1,6 @@
 ---
-title: "Iris K-Means Clustering"
+title: "Word Embeddings Visual"
+author: "Reid McIlroy-Young"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -15,6 +16,7 @@ library(plotly)
 library(plyr)
 library(xkcdcolors)
 library(flexdashboard)
+library(shinyWidgets)
 
 if (dir.exists('data/')) {
   filesDir <- 'data/'
@@ -23,8 +25,11 @@ if (dir.exists('data/')) {
 }
 
 
-target_names <- c('econ', 'so', 'psy', 'com')
-names(target_names) <- c('econ', 'so', 'psy', 'com')
+target_names <- c('Economics', 'Stack Overflow', 'Psychology & Neuroscience', 'Combined')
+names(target_names) <- c('Economics', 'Computer Science', 'Psychology & Neuroscience', 'Combined')
+
+choices_names <- c('Points', 'Text', '3D')
+names(choices_names) <- c('Points', 'Text', '3D')
 
 files <- c('tsne_Economics.csv', 'tsne_Stack Overflow.csv', 'tsne_Psychology & Neuroscience.csv', 'tsne_combined.csv')
 colours <- c(name2color("light orange"), name2color("light blue"), name2color("light green"), name2color("black"))
@@ -38,9 +43,17 @@ Column {.sidebar}
 -----------------------------------------------------------------------
 
 ```{r}
-selectInput(inputId = 'var',
-            label = 'X Variable',
-            choices = target_names)
+pickerInput(inputId = 'var',
+            label = 'Dataset',
+            choices = target_names,
+            selected ='Combined')
+
+pickerInput(inputId = 'choice',
+            label = 'Display Type',
+            choices = choices_names,
+            selected ='Points')
+
+
 ```
 
 Column
@@ -48,18 +61,51 @@ Column
 
 ### K Means
 ```{r}
+
+
 df_target <- reactive({
-  read.csv(paste(filesDir, df_attributes[input$var,'file'], sep = ''))
+  if (input$choice == '3D' ||input$choice ==  'Table 3D') {
+    df <- read.csv(paste(filesDir, 'tsne_', input$var, '_3d.csv', sep = ''))
+  } else {
+    df <- read.csv(paste(filesDir, 'tsne_', input$var, '.csv', sep = ''))
+  }
 })
 
 
-renderPlotly({ 
-  tsne_plot <- ggplot(data = df_target(), aes(x=tsne_0, y=tsne_1, label=tag)) +
-    geom_text(size = 4) +
+renderPlotly({
+  if (input$choice == '3D') {
+    p <- plot_ly(df_target(), x=~tsne_0, y=~tsne_1, z=~tsne_2, color = ~colour_class, size = ~size_objs * 5,
+                hoverinfo = 'text', type='scatter3d',
+                text = ~paste('Source: ', cName,
+                  '\nTag: ', tag,
+                  '\n Count: ', count,
+                  '\n Rank: ', rank))
+    add_markers(p)
+    layout(p, showlegend = FALSE)
+    p
+  } else {
+    tsne_plot <- ggplot(data = df_target(), aes(x=tsne_0, y=tsne_1, label=tag, size = size_objs , colour=colour_class, fill=colour_class, 
+                                                 text = paste('Source: ', cName,
+                                                              '\nTag: ', tag,
+                                                              '\n Count: ', count,
+                                                              '\n Rank: ', rank)))
+  if (input$choice == 'Text') {
+    tsne_plot <- tsne_plot + 
+      geom_text()
+  } else {
+    tsne_plot <- tsne_plot +
+      geom_point(colour=name2color("dark grey"), pch=21)
+  }
+  tsne_plot <- tsne_plot +
+    labs(title = "2D t-SNE embeding") +
     theme(plot.title = element_text(size =12),
         axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
         axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank(),
-        panel.background=element_blank())
-  ggplotly(tsne_plot)
+        panel.background=element_blank(),
+        legend.position="none")
+  ggplotly(tsne_plot, tooltip = c("text"))
+  } 
 })
+
+
 ```

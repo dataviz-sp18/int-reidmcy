@@ -1,297 +1,297 @@
-,tag,count,class,tsne_0,tsne_1,tsne_2
-0,cognitive-psychology,925,Psychology & Neuroscience,100.3764,22.602064,-106.05942
-1,social-psychology,581,Psychology & Neuroscience,31.24897,-40.717464,-43.03921
-2,neuroscience,534,Psychology & Neuroscience,19.245506,-164.80417,56.6505
-3,cognitive-neuroscience,350,Psychology & Neuroscience,-40.72216,88.3333,53.17229
-4,perception,347,Psychology & Neuroscience,-110.9595,9.113314,49.878075
-5,emotion,306,Psychology & Neuroscience,-153.98993,45.255047,91.60046
-6,learning,292,Psychology & Neuroscience,54.615067,-97.95794,-118.43732
-7,memory,278,Psychology & Neuroscience,42.71115,-100.07355,95.65807
-8,measurement,275,Psychology & Neuroscience,-150.82277,-35.415245,33.94338
-10,personality,262,Psychology & Neuroscience,93.05707,11.700138,96.926926
-12,terminology,218,Psychology & Neuroscience,73.69929,57.84973,123.873955
-13,methodology,217,Psychology & Neuroscience,51.45731,-133.0701,-36.138298
-16,vision,199,Psychology & Neuroscience,83.87864,107.85647,-110.644775
-17,intelligence,180,Psychology & Neuroscience,-43.80815,-90.039856,-150.73999
-19,motivation,160,Psychology & Neuroscience,-94.35166,-93.71135,116.44907
-22,eeg,119,Psychology & Neuroscience,-98.79197,-3.2779787,-81.223076
-23,decision-making,116,Psychology & Neuroscience,95.75589,-114.95774,29.19535
-24,sleep,113,Psychology & Neuroscience,-18.476341,-150.24509,-24.929892
-25,consciousness,113,Psychology & Neuroscience,51.382065,7.7196317,-178.12329
-26,clinical-psychology,112,Psychology & Neuroscience,38.241016,-79.15677,-37.668015
-27,bias,111,Psychology & Neuroscience,-16.423012,-50.83391,109.360886
-28,neural-network,110,Psychology & Neuroscience,52.545128,-24.485949,172.88205
-29,language,107,Psychology & Neuroscience,-24.584997,-19.620108,-87.69735
-30,statistics,104,Psychology & Neuroscience,65.33231,-7.5262103,-105.25965
-31,test,101,Psychology & Neuroscience,131.41617,-1.4718292,-13.133082
-32,dreams,96,Psychology & Neuroscience,-7.461824,66.70653,20.189903
-33,performance,94,Psychology & Neuroscience,113.297356,63.19369,-127.65255
-34,neurophysiology,92,Psychology & Neuroscience,41.183216,-128.7493,55.847015
-35,psychiatry,86,Psychology & Neuroscience,84.541,81.662544,-71.00719
-36,neuroimaging,81,Psychology & Neuroscience,0.5319711,90.18992,-53.232773
-38,psychology,78,Psychology & Neuroscience,59.238525,96.075836,-35.20642
-41,attention,75,Psychology & Neuroscience,1.2356315,80.988655,62.792988
-42,sexuality,74,Psychology & Neuroscience,16.147594,123.69728,-37.778603
-43,depression,72,Psychology & Neuroscience,-143.4996,-84.0154,48.233345
-44,behaviorism,67,Psychology & Neuroscience,39.55393,53.831894,-8.67546
-45,neuroanatomy,67,Psychology & Neuroscience,94.0799,-35.78624,131.80008
-46,sensation,65,Psychology & Neuroscience,-13.419122,-108.38619,69.69468
-47,behavior,63,Psychology & Neuroscience,22.697792,-66.92583,134.56694
-48,evolution,63,Psychology & Neuroscience,87.93896,139.05664,46.49148
-49,fmri,57,Psychology & Neuroscience,-90.909424,14.896657,-46.97578
-50,physiology,57,Psychology & Neuroscience,-88.18007,-25.864378,-21.107368
-51,motor,55,Psychology & Neuroscience,-106.570404,132.4867,-21.398258
-52,working-memory,53,Psychology & Neuroscience,140.03244,113.77826,2.7762673
-53,communication,53,Psychology & Neuroscience,119.73811,-78.30945,-82.58919
-54,well-being,51,Psychology & Neuroscience,83.202034,-41.72757,89.528206
-55,reading,50,Psychology & Neuroscience,-49.33868,-47.037827,-98.00653
-56,iq,50,Psychology & Neuroscience,-107.677795,95.14296,-100.705826
-57,animal-cognition,47,Psychology & Neuroscience,82.56711,36.98729,23.136948
-58,linguistics,47,Psychology & Neuroscience,94.586975,122.69406,-21.758635
-59,stress,47,Psychology & Neuroscience,-59.799583,-63.775154,103.61242
-60,brain-training,46,Psychology & Neuroscience,0.6639519,-25.241896,-8.613133
-61,software,46,Psychology & Neuroscience,108.220116,-10.791792,-80.324486
-62,problem-solving,46,Psychology & Neuroscience,-8.347846,-154.31036,17.245186
-63,long-term-memory,46,Psychology & Neuroscience,-59.345592,54.763668,-33.109444
-64,psychopharmacology,45,Psychology & Neuroscience,-135.42834,-42.57888,-102.870605
-66,psychophysics,42,Psychology & Neuroscience,-150.76317,76.43612,-60.704605
-67,music,42,Psychology & Neuroscience,-4.389587,-4.0725994,-51.28231
-68,artificial-intelligence,40,Psychology & Neuroscience,-7.100829,12.669186,-134.08098
-69,hearing,39,Psychology & Neuroscience,-90.64579,61.54517,-69.5436
-70,brain,39,Psychology & Neuroscience,-161.4241,36.424053,27.837053
-71,conditioning,38,Psychology & Neuroscience,-100.61868,-154.4292,0.58609146
-72,neurology,38,Psychology & Neuroscience,148.88023,-5.6244326,177.58865
-73,creativity,38,Psychology & Neuroscience,-40.747658,77.50437,-75.18948
-75,data,36,Psychology & Neuroscience,-111.57444,-50.316017,142.18584
-76,addiction,36,Psychology & Neuroscience,-54.305984,-1.5459367,-113.00948
-79,survey,35,Psychology & Neuroscience,168.67046,-1.1818584,51.523415
-80,adhd,35,Psychology & Neuroscience,-45.208847,-58.095608,157.39362
-81,internet,35,Psychology & Neuroscience,112.73769,-35.440792,-46.616123
-82,color,35,Psychology & Neuroscience,-124.55191,12.922413,1.097097
-83,human-factors,34,Psychology & Neuroscience,-20.261505,-34.180065,54.524055
-84,anxiety,33,Psychology & Neuroscience,-111.061035,28.638416,132.49518
-85,electrophysiology,33,Psychology & Neuroscience,65.9668,-139.55063,63.63847
-86,reaction-time,33,Psychology & Neuroscience,1.2152911,69.07453,-18.436438
-87,unconscious,33,Psychology & Neuroscience,-64.09796,91.794914,120.07538
-88,eye-movement,32,Psychology & Neuroscience,-106.18295,-47.229164,-63.335884
-89,autism,30,Psychology & Neuroscience,3.9046514,141.19975,-103.00432
-90,consumer-psychology,30,Psychology & Neuroscience,26.578283,-26.866884,15.4565525
-91,sex-differences,29,Psychology & Neuroscience,-42.406345,-32.710308,-27.175463
-92,signal-detection,29,Psychology & Neuroscience,133.84863,40.242893,-5.4788423
-93,schizophrenia,29,Psychology & Neuroscience,-7.208581,156.45123,-63.247578
-94,reinforcement-learning,29,Psychology & Neuroscience,-218.54715,271.72354,-63.924156
-96,meditation,29,Psychology & Neuroscience,-24.878252,-95.28903,-93.03234
-98,audition,28,Psychology & Neuroscience,-107.39606,86.59946,-35.247993
-99,fear,28,Psychology & Neuroscience,-97.795334,-88.545006,70.311646
-100,genetics,28,Psychology & Neuroscience,67.315865,165.3567,-14.653857
-101,time,28,Psychology & Neuroscience,136.48122,-0.5006393,106.00332
-102,pain,27,Psychology & Neuroscience,-74.41344,-38.73871,90.0333
-103,economics,26,Psychology & Neuroscience,49.50904,123.650986,-8.565589
-104,language-processing,26,Psychology & Neuroscience,2.9712996,-64.09624,-147.19199
-105,plasticity,26,Psychology & Neuroscience,-162.95107,12.763191,-73.71532
-106,visualization,25,Psychology & Neuroscience,146.79892,-8.380872,-83.74703
-107,gender,25,Psychology & Neuroscience,52.11188,147.00523,81.29106
-108,health-psychology,25,Psychology & Neuroscience,61.250114,-22.294811,14.844643
-110,positive-psychology,25,Psychology & Neuroscience,73.84832,-72.81367,-53.44572
-111,rationality,24,Psychology & Neuroscience,77.35055,-44.810432,-19.53488
-112,psychoanalysis,24,Psychology & Neuroscience,154.3162,-40.167675,12.272414
-113,hypnosis,23,Psychology & Neuroscience,17.817116,-108.31571,170.42911
-114,speech,23,Psychology & Neuroscience,79.37585,-115.743744,-67.151535
-116,mood,23,Psychology & Neuroscience,133.33124,-110.93121,-34.191925
-117,gamification,23,Psychology & Neuroscience,-11.60669,29.459997,-177.72124
-118,short-term-memory,23,Psychology & Neuroscience,106.75781,-21.27931,14.796406
-119,metacognition,22,Psychology & Neuroscience,152.20316,22.030407,-46.623955
-120,social-networks,22,Psychology & Neuroscience,16.4401,117.33783,57.98737
-121,behavioral-economics,22,Psychology & Neuroscience,61.489113,34.569977,180.44702
-122,nef,22,Psychology & Neuroscience,-113.70133,-90.96107,-84.440285
-123,perceptual-learning,21,Psychology & Neuroscience,-43.946335,47.803867,91.43661
-124,personality-disorder,21,Psychology & Neuroscience,55.72919,13.708946,7.2858987
-126,aesthetics,20,Psychology & Neuroscience,13.741119,30.922396,-41.927296
-127,hci,20,Psychology & Neuroscience,82.302086,-6.0827994,-27.276917
-128,hallucinations,20,Psychology & Neuroscience,-61.453537,153.32568,-51.544617
-129,signal-processing,20,Psychology & Neuroscience,39.558422,16.492859,147.38608
-130,brain-computer-interface,19,Psychology & Neuroscience,4.004028,86.524925,-91.40203
-131,lateralization,19,Psychology & Neuroscience,-141.4944,20.485685,-107.46822
-132,parenting,19,Psychology & Neuroscience,-33.519165,41.64238,-4.017526
-133,sensory-perception,18,Psychology & Neuroscience,12.02823,35.661495,38.197037
-134,aspergers,18,Psychology & Neuroscience,-106.73857,-73.10933,15.168906
-135,self,18,Psychology & Neuroscience,24.618639,-111.0616,-219.81805
-136,game-theory,17,Psychology & Neuroscience,67.98703,-31.821732,-64.47155
-137,thought,17,Psychology & Neuroscience,-29.424088,50.679585,50.66464
-138,aging,17,Psychology & Neuroscience,-82.23792,63.560425,76.03167
-139,concentration,17,Psychology & Neuroscience,-103.118645,131.24733,38.305897
-140,sociology,17,Psychology & Neuroscience,68.84352,104.55578,1.103119
-141,empathy,17,Psychology & Neuroscience,-0.34367687,158.88985,51.43523
-142,love,17,Psychology & Neuroscience,48.87334,94.73924,84.51856
-143,brain-injury,17,Psychology & Neuroscience,-22.87909,3.0552862,-14.315469
-144,moral-psychology,17,Psychology & Neuroscience,16.284616,-92.94066,-14.394126
-145,training,16,Psychology & Neuroscience,10.931938,-115.32258,-128.4826
-146,jung,16,Psychology & Neuroscience,-177.83102,522.2213,76.217155
-147,feeding,16,Psychology & Neuroscience,-18.257977,-117.55679,-6.1613703
-148,nature-nurture,16,Psychology & Neuroscience,47.295963,52.457733,30.125929
-151,self-control,16,Psychology & Neuroscience,1.6287023,-61.081684,-103.32369
-152,correlation,16,Psychology & Neuroscience,-56.52437,-84.90929,-2.3314047
-154,political-psychology,15,Psychology & Neuroscience,21.7444,9.140399,98.451385
-155,video-games,15,Psychology & Neuroscience,-21.636868,43.765335,-53.730553
-156,dopamine,15,Psychology & Neuroscience,-100.37769,-39.715992,48.61163
-158,cognitive-development,15,Psychology & Neuroscience,74.42662,28.073563,-72.696976
-159,attitudes,15,Psychology & Neuroscience,6.5104594,102.733315,150.08871
-160,recognition,14,Psychology & Neuroscience,-91.60414,24.264433,26.71352
-163,therapy,14,Psychology & Neuroscience,140.10806,-62.92779,-27.889389
-164,religion,14,Psychology & Neuroscience,12.500736,80.058174,-130.64146
-166,phobia,13,Psychology & Neuroscience,-143.45709,81.08924,58.855186
-167,self-discipline,13,Psychology & Neuroscience,17.61895,-18.322607,-122.84264
-168,bayesian,13,Psychology & Neuroscience,165.8818,60.066593,-3.0517604
-169,reward,13,Psychology & Neuroscience,-19.99717,-70.16973,72.30261
-170,connectionism,13,Psychology & Neuroscience,87.03811,-129.16469,-107.49689
-171,ptsd,13,Psychology & Neuroscience,-73.40654,45.33902,-105.304344
-172,habituation,13,Psychology & Neuroscience,137.49712,63.97121,-71.98574
-173,exercise,13,Psychology & Neuroscience,24.915379,-159.64131,-67.29859
-174,writing,13,Psychology & Neuroscience,-67.924934,-58.711525,-109.640724
-176,validation,12,Psychology & Neuroscience,94.495285,-86.28603,-11.837319
-177,analysis,12,Psychology & Neuroscience,139.61383,-90.407524,17.395983
-178,humour,12,Psychology & Neuroscience,116.52098,79.06964,-35.79573
-179,deception,12,Psychology & Neuroscience,-22.32782,-76.581894,14.436128
-180,cognition,12,Psychology & Neuroscience,-105.6416,105.71863,89.229355
-181,arousal,11,Psychology & Neuroscience,-44.620255,-106.22949,109.76555
-182,expertise,11,Psychology & Neuroscience,-56.979996,93.02078,-57.947617
-184,task-analysis,11,Psychology & Neuroscience,-130.54001,-44.291653,-11.714952
-185,spa,11,Psychology & Neuroscience,-27.236809,-35.61226,13.59743
-186,spm,11,Psychology & Neuroscience,72.89481,-78.70364,140.63358
-187,social-cognition,11,Psychology & Neuroscience,-131.87312,-13.573479,-41.41361
-188,introversion,11,Psychology & Neuroscience,-47.661358,-104.01491,59.245396
-190,neuropsychology,11,Psychology & Neuroscience,36.34625,71.75151,-52.36357
-191,drugs,11,Psychology & Neuroscience,-27.456238,-29.466143,-143.45276
-192,psychosis,11,Psychology & Neuroscience,-50.99282,-10.874673,158.41505
-193,synesthesia,11,Psychology & Neuroscience,9.607574,-131.7354,102.029945
-194,serotonin,10,Psychology & Neuroscience,90.64519,-18.917519,51.847008
-195,ideation,10,Psychology & Neuroscience,-40.968884,89.89516,-129.15848
-196,categorisation,10,Psychology & Neuroscience,-64.934654,35.90164,37.059143
-197,intuition,10,Psychology & Neuroscience,119.21121,16.988749,41.8271
-198,positive-thinking,10,Psychology & Neuroscience,-128.93881,-77.43084,-35.042225
-199,semantic-memory,10,Psychology & Neuroscience,41.29708,43.311363,79.47176
-200,aggression,10,Psychology & Neuroscience,1.8120661,-91.41538,132.33131
-201,social-desirability,10,Psychology & Neuroscience,-134.49828,42.146606,-23.06319
-202,cognitive-dissonance,10,Psychology & Neuroscience,9.449658,-58.190426,-14.337138
-203,alcohol,10,Psychology & Neuroscience,14.436671,-188.78755,-6.424322
-204,neuro-transmitters,9,Psychology & Neuroscience,47.7174,-11.139986,74.96204
-205,confidence,9,Psychology & Neuroscience,78.41655,-133.36563,116.66315
-206,procedural-memory,9,Psychology & Neuroscience,8.980422,-15.994911,77.39749
-207,preferences,9,Psychology & Neuroscience,-16.731268,80.53868,143.34349
-208,anthropology,9,Psychology & Neuroscience,92.95187,100.16375,11.626395
-209,priming,9,Psychology & Neuroscience,-85.32503,89.0816,25.10841
-210,social-neuroscience,9,Psychology & Neuroscience,36.09596,-4.778025,40.27514
-211,big-five,9,Psychology & Neuroscience,-58.789593,-63.575954,49.820557
-213,executive-function,9,Psychology & Neuroscience,-28.91116,-73.67815,-33.160133
-216,mbti,8,Psychology & Neuroscience,49.426594,-21.330639,126.34036
-217,neurogenesis,8,Psychology & Neuroscience,10.08314,-103.88316,32.28602
-218,synchronization,8,Psychology & Neuroscience,12.071962,21.986908,-0.1916868
-219,leadership,8,Psychology & Neuroscience,114.483795,-107.44855,70.04556
-220,attribution,8,Psychology & Neuroscience,-71.92974,15.844314,68.18587
-222,episodic-memory,8,Psychology & Neuroscience,-2.953514,-16.00773,138.05685
-223,norms,8,Psychology & Neuroscience,-3.356424,96.61712,107.10676
-224,stimulation,8,Psychology & Neuroscience,-99.45837,-111.02001,-22.895857
-225,procrastination,8,Psychology & Neuroscience,-66.57838,-46.11218,11.299989
-226,placebo,8,Psychology & Neuroscience,-21.281685,-154.35915,-69.390625
-227,dynamic-systems,8,Psychology & Neuroscience,56.75414,13.932446,107.228386
-228,automaticity,8,Psychology & Neuroscience,138.23003,60.223064,37.364574
-229,sampling,8,Psychology & Neuroscience,52.714622,-109.553955,6.522539
-230,untagged,8,Psychology & Neuroscience,125.85021,-12.869963,78.157814
-231,cross-modal,7,Psychology & Neuroscience,-123.6717,84.39894,0.99375933
-232,reliability,7,Psychology & Neuroscience,-127.84223,6.8855557,87.40522
-234,cognitive,7,Psychology & Neuroscience,-115.56002,73.811806,109.72867
-235,persuasion,7,Psychology & Neuroscience,-52.184967,-128.68735,-103.45655
-236,extroversion,7,Psychology & Neuroscience,-37.72121,-113.82096,39.333164
-238,attraction,7,Psychology & Neuroscience,33.731903,-54.71985,102.63861
-239,awareness,6,Psychology & Neuroscience,-73.39171,-108.3837,-71.62417
-240,workload,6,Psychology & Neuroscience,-83.69679,-12.590467,125.009315
-241,medication,6,Psychology & Neuroscience,-13.334936,-10.348768,240.26727
-242,meta-analysis,6,Psychology & Neuroscience,-48.644363,169.42677,3.9978068
-244,publication,6,Psychology & Neuroscience,38.36216,-8.618457,-20.6503
-245,psychoacoustics,6,Psychology & Neuroscience,-19.302492,109.38715,19.682781
-246,encoding,6,Psychology & Neuroscience,-106.91105,56.141727,33.528233
-247,devices,6,Psychology & Neuroscience,60.295193,40.16618,-120.60445
-249,transfer,6,Psychology & Neuroscience,51.762714,-66.81288,8.299071
-251,mnemonic,6,Psychology & Neuroscience,52.420696,-154.78787,8.818289
-252,ltp,5,Psychology & Neuroscience,-145.02287,-40.534843,95.792984
-253,free-will,5,Psychology & Neuroscience,58.611572,-44.309647,50.19511
-254,altruism,5,Psychology & Neuroscience,36.639416,7.051498,-139.6587
-256,goals,5,Psychology & Neuroscience,-28.464863,115.001205,94.799
-258,twin-study,5,Psychology & Neuroscience,35.887108,-61.251705,-73.989845
-259,ethics,5,Psychology & Neuroscience,88.80274,52.134495,-12.9869585
-260,event-related-potential,5,Psychology & Neuroscience,22.83925,17.584267,-91.72069
-262,freud,5,Psychology & Neuroscience,4.404645,159.88893,4.257716
-263,neuromarketing,5,Psychology & Neuroscience,58.933125,42.265514,-40.68627
-264,qualia,5,Psychology & Neuroscience,111.379974,40.053993,66.06024
-265,commitment,5,Psychology & Neuroscience,92.80024,-83.768585,86.44823
-266,willpower,5,Psychology & Neuroscience,29.488354,-39.896564,-111.188866
-267,meg,5,Psychology & Neuroscience,-110.736115,20.78951,-64.04389
-268,situation-awareness,4,Psychology & Neuroscience,-31.069363,-12.99387,98.09102
-269,social,4,Psychology & Neuroscience,65.46365,108.06829,130.31528
-270,collaboration,4,Psychology & Neuroscience,142.3024,-63.26113,-85.0321
-271,model,4,Psychology & Neuroscience,-52.716457,140.9224,53.52991
-272,act-r,4,Psychology & Neuroscience,80.274376,-56.28833,-106.488556
-273,multi-tasking,4,Psychology & Neuroscience,190.90836,408.37726,-15.711549
-275,diagnosis,4,Psychology & Neuroscience,-2.4818826,47.33084,-91.4996
-276,biofeedback,4,Psychology & Neuroscience,17.260513,-114.222,-88.33408
-277,alzheimer,4,Psychology & Neuroscience,16.206282,171.6361,-46.696766
-279,mirror-neurons,4,Psychology & Neuroscience,41.864212,65.12154,-90.67888
-280,body-language,4,Psychology & Neuroscience,-62.451687,4.3530335,-1.5198741
-281,heart-rate-variability,3,Psychology & Neuroscience,25.794699,-14.068123,-70.39329
-282,testosterone,3,Psychology & Neuroscience,182.49385,-2.3380396,-2.0096726
-283,eating-disorders,3,Psychology & Neuroscience,4.2953987,44.51052,78.83941
-284,homework,3,Psychology & Neuroscience,-71.79755,-46.593815,-149.15321
-285,matlab,3,Psychology & Neuroscience,-100.80463,-138.37737,58.85306
-286,imagery,3,Psychology & Neuroscience,-98.46056,-9.058296,-133.35913
-287,anchoring,3,Psychology & Neuroscience,-57.269047,-16.410994,56.239285
-288,trust,3,Psychology & Neuroscience,-1.4520942,156.71465,99.07974
-290,p300,3,Psychology & Neuroscience,-175.56053,-6.154013,-20.912579
-291,epilepsy,3,Psychology & Neuroscience,-25.10834,133.34048,-67.81072
-292,oxytocin,3,Psychology & Neuroscience,-104.59601,-25.572432,22.22066
-293,nlp,3,Psychology & Neuroscience,112.04401,-34.456734,-125.42729
-294,neuroticism,3,Psychology & Neuroscience,-31.5141,8.797519,27.006317
-298,amnesia,3,Psychology & Neuroscience,-59.500805,133.44467,-105.78155
-299,extraversion,3,Psychology & Neuroscience,-7.2651453,-3.8157248,29.17834
-300,cbt,2,Psychology & Neuroscience,-6.8364387,-107.73293,-54.32567
-301,pathology,2,Psychology & Neuroscience,25.352207,95.00633,17.041933
-302,compulsive,2,Psychology & Neuroscience,69.80069,18.563755,54.236847
-304,definition,2,Psychology & Neuroscience,58.09506,74.02522,-153.02184
-305,human-error,2,Psychology & Neuroscience,-18.19716,10.616248,64.93628
-306,ecg,2,Psychology & Neuroscience,-69.27181,-17.03656,-68.27107
-307,causal-inference,2,Psychology & Neuroscience,11.391229,-60.301533,30.106907
-308,hippocampus,2,Psychology & Neuroscience,-124.71913,-34.27222,74.471054
-309,cognitive-load,2,Psychology & Neuroscience,-57.670174,18.703522,107.771805
-310,racism,2,Psychology & Neuroscience,37.454502,123.736885,-65.72111
-311,coordination,2,Psychology & Neuroscience,-98.95204,47.473316,-141.70622
-312,regression,2,Psychology & Neuroscience,102.52478,-143.87383,-13.796325
-314,halo-effect,2,Psychology & Neuroscience,-11.008466,28.139933,135.29648
-315,wisdom-of-crowds,2,Psychology & Neuroscience,-52.505756,-118.30148,-29.667131
-316,ipip,2,Psychology & Neuroscience,75.80613,59.475525,71.668976
-317,cueing,2,Psychology & Neuroscience,-67.07291,76.741165,11.87918
-318,tdcs,2,Psychology & Neuroscience,-88.27619,-90.30291,-29.866047
-319,ego-depletion,2,Psychology & Neuroscience,22.37548,53.87429,124.59407
-320,touch,2,Psychology & Neuroscience,-35.115913,-156.78639,78.2296
-321,obedience,2,Psychology & Neuroscience,54.58897,-83.09955,52.333023
-324,apa-style,2,Psychology & Neuroscience,47.680786,7.1311555,-48.90642
-325,sentiment-analysis,2,Psychology & Neuroscience,-13.099578,20.144646,100.524704
-326,incentives,2,Psychology & Neuroscience,136.30182,-61.685753,107.04863
-327,nicotine,2,Psychology & Neuroscience,-163.03255,-1.6024786,53.73893
-328,vstm,1,Psychology & Neuroscience,-32.81088,94.776215,-19.495832
-329,interoception,1,Psychology & Neuroscience,-38.509247,21.601654,-97.11279
-330,pnse,1,Psychology & Neuroscience,-80.22408,-104.228516,24.876368
-331,tappy,1,Psychology & Neuroscience,19.258469,13.96761,63.116573
-332,learned-helplessness,1,Psychology & Neuroscience,20.642212,-41.127815,59.251984
-333,criminology,1,Psychology & Neuroscience,74.65344,79.26158,-8.206573
-334,terms,1,Psychology & Neuroscience,-59.84436,125.074356,-2.796808
-335,criminal,1,Psychology & Neuroscience,-44.29197,9.749468,-43.152214
-336,etiology,1,Psychology & Neuroscience,42.40687,94.02451,34.814796
-337,compliance,1,Psychology & Neuroscience,146.98161,-60.08637,62.403454
-338,olfaction,1,Psychology & Neuroscience,106.02609,95.07704,77.87811
-339,violence,1,Psychology & Neuroscience,66.17628,-42.188988,-157.12955
-340,ecog,1,Psychology & Neuroscience,208.30478,166.6251,-121.33577
-341,temporal-context,1,Psychology & Neuroscience,-90.2468,41.945026,-11.696547
-342,typing,1,Psychology & Neuroscience,-63.29112,-62.175266,-57.20522
-343,evoked-potentials,1,Psychology & Neuroscience,97.869,23.957575,-39.145893
-344,risk-reward,1,Psychology & Neuroscience,98.22524,-62.868866,32.770966
-346,adaptation,1,Psychology & Neuroscience,-14.937712,-52.234646,-63.36318
-347,tinnitus,1,Psychology & Neuroscience,-44.777653,40.638874,-136.5375
+,tag,count,class,tsne_0,tsne_1,tsne_2,cName,colour_class,rank,size_objs,alpha_val
+0,cognitive-psychology,925,Psychology & Neuroscience,100.3764,22.602064000000002,-106.05941999999999,Psychology & Neuroscience,green,0,2.0,1.0
+1,social-psychology,581,Psychology & Neuroscience,31.24897,-40.717464,-43.03921,Psychology & Neuroscience,green,1,1.9966216216216215,0.9972972972972973
+2,neuroscience,534,Psychology & Neuroscience,19.245506,-164.80417,56.6505,Psychology & Neuroscience,green,2,1.9932432432432432,0.9945945945945946
+3,cognitive-neuroscience,350,Psychology & Neuroscience,-40.722159999999995,88.3333,53.172290000000004,Psychology & Neuroscience,green,3,1.989864864864865,0.991891891891892
+4,perception,347,Psychology & Neuroscience,-110.9595,9.113314,49.878075,Psychology & Neuroscience,green,4,1.9864864864864864,0.9891891891891893
+5,emotion,306,Psychology & Neuroscience,-153.98993000000002,45.255047,91.60046,Psychology & Neuroscience,green,5,1.9831081081081081,0.9864864864864866
+6,learning,292,Psychology & Neuroscience,54.615067,-97.95794000000001,-118.43732,Psychology & Neuroscience,green,6,1.9797297297297298,0.9837837837837837
+7,memory,278,Psychology & Neuroscience,42.71115,-100.07355,95.65807,Psychology & Neuroscience,green,7,1.9763513513513513,0.981081081081081
+8,measurement,275,Psychology & Neuroscience,-150.82277,-35.415245,33.94338,Psychology & Neuroscience,green,8,1.972972972972973,0.9783783783783784
+10,personality,262,Psychology & Neuroscience,93.05707,11.700138,96.926926,Psychology & Neuroscience,green,9,1.9695945945945947,0.9756756756756757
+12,terminology,218,Psychology & Neuroscience,73.69929,57.84973000000001,123.87395500000001,Psychology & Neuroscience,green,10,1.9662162162162162,0.972972972972973
+13,methodology,217,Psychology & Neuroscience,51.45731,-133.0701,-36.138298,Psychology & Neuroscience,green,11,1.9628378378378377,0.9702702702702704
+16,vision,199,Psychology & Neuroscience,83.87864,107.85647,-110.644775,Psychology & Neuroscience,green,12,1.9594594594594594,0.9675675675675677
+17,intelligence,180,Psychology & Neuroscience,-43.80815,-90.039856,-150.73998999999998,Psychology & Neuroscience,green,13,1.9560810810810811,0.964864864864865
+19,motivation,160,Psychology & Neuroscience,-94.35166,-93.71135,116.44906999999999,Psychology & Neuroscience,green,14,1.9527027027027026,0.9621621621621623
+22,eeg,119,Psychology & Neuroscience,-98.79196999999999,-3.2779787000000002,-81.223076,Psychology & Neuroscience,green,15,1.9493243243243243,0.9594594594594594
+23,decision-making,116,Psychology & Neuroscience,95.75589000000001,-114.95773999999999,29.19535,Psychology & Neuroscience,green,16,1.945945945945946,0.9567567567567568
+25,consciousness,113,Psychology & Neuroscience,51.382065000000004,7.7196317,-178.12329,Psychology & Neuroscience,green,17,1.9425675675675675,0.9540540540540541
+24,sleep,113,Psychology & Neuroscience,-18.476341,-150.24509,-24.929892000000002,Psychology & Neuroscience,green,18,1.939189189189189,0.9513513513513514
+26,clinical-psychology,112,Psychology & Neuroscience,38.241015999999995,-79.15677,-37.668015000000004,Psychology & Neuroscience,green,19,1.935810810810811,0.9486486486486487
+27,bias,111,Psychology & Neuroscience,-16.423012,-50.833909999999996,109.36088600000001,Psychology & Neuroscience,green,20,1.9324324324324325,0.945945945945946
+28,neural-network,110,Psychology & Neuroscience,52.545128000000005,-24.485948999999998,172.88205,Psychology & Neuroscience,green,21,1.929054054054054,0.9432432432432432
+29,language,107,Psychology & Neuroscience,-24.584997,-19.620108,-87.69735,Psychology & Neuroscience,green,22,1.9256756756756757,0.9405405405405407
+30,statistics,104,Psychology & Neuroscience,65.33230999999999,-7.526210300000001,-105.25965,Psychology & Neuroscience,green,23,1.9222972972972974,0.9378378378378378
+31,test,101,Psychology & Neuroscience,131.41617,-1.4718292,-13.133082,Psychology & Neuroscience,green,24,1.9189189189189189,0.9351351351351351
+32,dreams,96,Psychology & Neuroscience,-7.461824000000001,66.70653,20.189903,Psychology & Neuroscience,green,25,1.9155405405405406,0.9324324324324325
+33,performance,94,Psychology & Neuroscience,113.29735600000001,63.193690000000004,-127.65255,Psychology & Neuroscience,green,26,1.9121621621621623,0.9297297297297298
+34,neurophysiology,92,Psychology & Neuroscience,41.183215999999994,-128.7493,55.847015,Psychology & Neuroscience,green,27,1.9087837837837838,0.9270270270270271
+35,psychiatry,86,Psychology & Neuroscience,84.541,81.662544,-71.00719000000001,Psychology & Neuroscience,green,28,1.9054054054054053,0.9243243243243244
+36,neuroimaging,81,Psychology & Neuroscience,0.5319710999999999,90.18992,-53.232773,Psychology & Neuroscience,green,29,1.902027027027027,0.9216216216216218
+38,psychology,78,Psychology & Neuroscience,59.238525,96.075836,-35.20642,Psychology & Neuroscience,green,30,1.8986486486486487,0.9189189189189189
+41,attention,75,Psychology & Neuroscience,1.2356315,80.98865500000001,62.792988,Psychology & Neuroscience,green,31,1.8952702702702702,0.9162162162162162
+42,sexuality,74,Psychology & Neuroscience,16.147594,123.69728,-37.778603000000004,Psychology & Neuroscience,green,32,1.8918918918918919,0.9135135135135135
+43,depression,72,Psychology & Neuroscience,-143.4996,-84.0154,48.233345,Psychology & Neuroscience,green,33,1.8885135135135136,0.9108108108108108
+45,neuroanatomy,67,Psychology & Neuroscience,94.0799,-35.78624,131.80008,Psychology & Neuroscience,green,34,1.885135135135135,0.9081081081081082
+44,behaviorism,67,Psychology & Neuroscience,39.55393,53.83189399999999,-8.675460000000001,Psychology & Neuroscience,green,35,1.8817567567567568,0.9054054054054055
+46,sensation,65,Psychology & Neuroscience,-13.419122,-108.38618999999998,69.69468,Psychology & Neuroscience,green,36,1.8783783783783785,0.9027027027027028
+47,behavior,63,Psychology & Neuroscience,22.697792,-66.92583,134.56694,Psychology & Neuroscience,green,37,1.875,0.9000000000000001
+48,evolution,63,Psychology & Neuroscience,87.93896,139.05664,46.491479999999996,Psychology & Neuroscience,green,38,1.8716216216216215,0.8972972972972972
+49,fmri,57,Psychology & Neuroscience,-90.909424,14.896657000000001,-46.97578,Psychology & Neuroscience,green,39,1.8682432432432432,0.8945945945945948
+50,physiology,57,Psychology & Neuroscience,-88.18007,-25.864378,-21.107368,Psychology & Neuroscience,green,40,1.864864864864865,0.8918918918918919
+51,motor,55,Psychology & Neuroscience,-106.57040400000001,132.4867,-21.398258,Psychology & Neuroscience,green,41,1.8614864864864864,0.8891891891891892
+52,working-memory,53,Psychology & Neuroscience,140.03243999999998,113.77826,2.7762672999999998,Psychology & Neuroscience,green,42,1.8581081081081081,0.8864864864864865
+53,communication,53,Psychology & Neuroscience,119.73811,-78.30945,-82.58919,Psychology & Neuroscience,green,43,1.8547297297297298,0.8837837837837839
+54,well-being,51,Psychology & Neuroscience,83.202034,-41.72757,89.52820600000001,Psychology & Neuroscience,green,44,1.8513513513513513,0.8810810810810812
+55,reading,50,Psychology & Neuroscience,-49.33868,-47.037827,-98.00653,Psychology & Neuroscience,green,45,1.847972972972973,0.8783783783783785
+56,iq,50,Psychology & Neuroscience,-107.67779499999999,95.14296,-100.705826,Psychology & Neuroscience,green,46,1.8445945945945947,0.8756756756756756
+57,animal-cognition,47,Psychology & Neuroscience,82.56711,36.98729,23.136948,Psychology & Neuroscience,green,47,1.8412162162162162,0.8729729729729729
+58,linguistics,47,Psychology & Neuroscience,94.586975,122.69406000000001,-21.758635,Psychology & Neuroscience,green,48,1.8378378378378377,0.8702702702702703
+59,stress,47,Psychology & Neuroscience,-59.799583,-63.775154,103.61242,Psychology & Neuroscience,green,49,1.8344594594594594,0.8675675675675676
+62,problem-solving,46,Psychology & Neuroscience,-8.347846,-154.31036,17.245186,Psychology & Neuroscience,green,50,1.8310810810810811,0.8648648648648649
+63,long-term-memory,46,Psychology & Neuroscience,-59.345592,54.763668,-33.109444,Psychology & Neuroscience,green,51,1.8277027027027026,0.8621621621621622
+61,software,46,Psychology & Neuroscience,108.22011599999999,-10.791792,-80.324486,Psychology & Neuroscience,green,52,1.8243243243243243,0.8594594594594596
+60,brain-training,46,Psychology & Neuroscience,0.6639519,-25.241896,-8.613133,Psychology & Neuroscience,green,53,1.820945945945946,0.8567567567567569
+64,psychopharmacology,45,Psychology & Neuroscience,-135.42834,-42.57888,-102.870605,Psychology & Neuroscience,green,54,1.8175675675675675,0.8540540540540542
+66,psychophysics,42,Psychology & Neuroscience,-150.76317,76.43611999999999,-60.70460500000001,Psychology & Neuroscience,green,55,1.814189189189189,0.8513513513513513
+67,music,42,Psychology & Neuroscience,-4.389587000000001,-4.0725994,-51.282309999999995,Psychology & Neuroscience,green,56,1.810810810810811,0.8486486486486486
+68,artificial-intelligence,40,Psychology & Neuroscience,-7.100828999999999,12.669186,-134.08098,Psychology & Neuroscience,green,57,1.8074324324324325,0.845945945945946
+69,hearing,39,Psychology & Neuroscience,-90.64579,61.54517,-69.5436,Psychology & Neuroscience,green,58,1.804054054054054,0.8432432432432433
+70,brain,39,Psychology & Neuroscience,-161.4241,36.424053,27.837053000000004,Psychology & Neuroscience,green,59,1.8006756756756757,0.8405405405405406
+73,creativity,38,Psychology & Neuroscience,-40.747658,77.50437,-75.18948,Psychology & Neuroscience,green,60,1.7972972972972974,0.8378378378378379
+72,neurology,38,Psychology & Neuroscience,148.88023,-5.6244326,177.58865,Psychology & Neuroscience,green,61,1.7939189189189189,0.835135135135135
+71,conditioning,38,Psychology & Neuroscience,-100.61868,-154.4292,0.58609146,Psychology & Neuroscience,green,62,1.7905405405405406,0.8324324324324326
+75,data,36,Psychology & Neuroscience,-111.57444,-50.316016999999995,142.18583999999998,Psychology & Neuroscience,green,63,1.7871621621621623,0.8297297297297297
+76,addiction,36,Psychology & Neuroscience,-54.305983999999995,-1.5459367,-113.00948000000001,Psychology & Neuroscience,green,64,1.7837837837837838,0.827027027027027
+79,survey,35,Psychology & Neuroscience,168.67046000000002,-1.1818583999999999,51.523415,Psychology & Neuroscience,green,65,1.7804054054054053,0.8243243243243243
+80,adhd,35,Psychology & Neuroscience,-45.208847,-58.095608,157.39362,Psychology & Neuroscience,green,66,1.777027027027027,0.8216216216216217
+81,internet,35,Psychology & Neuroscience,112.73768999999999,-35.440792,-46.616122999999995,Psychology & Neuroscience,green,67,1.7736486486486487,0.818918918918919
+82,color,35,Psychology & Neuroscience,-124.55191,12.922413,1.097097,Psychology & Neuroscience,green,68,1.7702702702702702,0.8162162162162163
+83,human-factors,34,Psychology & Neuroscience,-20.261505,-34.180065,54.524055000000004,Psychology & Neuroscience,green,69,1.7668918918918919,0.8135135135135136
+87,unconscious,33,Psychology & Neuroscience,-64.09796,91.794914,120.07538000000001,Psychology & Neuroscience,green,70,1.7635135135135136,0.810810810810811
+86,reaction-time,33,Psychology & Neuroscience,1.2152911,69.07453000000001,-18.436438,Psychology & Neuroscience,green,71,1.760135135135135,0.8081081081081081
+84,anxiety,33,Psychology & Neuroscience,-111.061035,28.638415999999996,132.49518,Psychology & Neuroscience,green,72,1.7567567567567568,0.8054054054054054
+85,electrophysiology,33,Psychology & Neuroscience,65.9668,-139.55063,63.63847,Psychology & Neuroscience,green,73,1.7533783783783785,0.8027027027027027
+88,eye-movement,32,Psychology & Neuroscience,-106.18295,-47.229164000000004,-63.335884,Psychology & Neuroscience,green,74,1.75,0.8
+89,autism,30,Psychology & Neuroscience,3.9046513999999997,141.19975,-103.00431999999999,Psychology & Neuroscience,green,75,1.7466216216216215,0.7972972972972974
+90,consumer-psychology,30,Psychology & Neuroscience,26.578283000000003,-26.866884000000002,15.456552499999999,Psychology & Neuroscience,green,76,1.7432432432432432,0.7945945945945947
+91,sex-differences,29,Psychology & Neuroscience,-42.406345,-32.710308000000005,-27.175463,Psychology & Neuroscience,green,77,1.739864864864865,0.791891891891892
+92,signal-detection,29,Psychology & Neuroscience,133.84863,40.242893,-5.478842299999999,Psychology & Neuroscience,green,78,1.7364864864864864,0.7891891891891891
+93,schizophrenia,29,Psychology & Neuroscience,-7.208581,156.45123,-63.247578000000004,Psychology & Neuroscience,green,79,1.7331081081081081,0.7864864864864867
+94,reinforcement-learning,29,Psychology & Neuroscience,-218.54715,271.72354,-63.924156,Psychology & Neuroscience,green,80,1.7297297297297298,0.7837837837837838
+96,meditation,29,Psychology & Neuroscience,-24.878252,-95.28903000000001,-93.03234,Psychology & Neuroscience,green,81,1.7263513513513513,0.7810810810810811
+98,audition,28,Psychology & Neuroscience,-107.39606,86.59946,-35.247993,Psychology & Neuroscience,green,82,1.722972972972973,0.7783783783783784
+99,fear,28,Psychology & Neuroscience,-97.795334,-88.545006,70.311646,Psychology & Neuroscience,green,83,1.7195945945945947,0.7756756756756757
+100,genetics,28,Psychology & Neuroscience,67.315865,165.3567,-14.653857,Psychology & Neuroscience,green,84,1.7162162162162162,0.7729729729729731
+101,time,28,Psychology & Neuroscience,136.48122,-0.5006393,106.00332,Psychology & Neuroscience,green,85,1.7128378378378377,0.7702702702702704
+102,pain,27,Psychology & Neuroscience,-74.41344000000001,-38.73871,90.0333,Psychology & Neuroscience,green,86,1.7094594594594594,0.7675675675675675
+105,plasticity,26,Psychology & Neuroscience,-162.95107,12.763191,-73.71531999999999,Psychology & Neuroscience,green,87,1.7060810810810811,0.7648648648648648
+104,language-processing,26,Psychology & Neuroscience,2.9712996,-64.09624000000001,-147.19199,Psychology & Neuroscience,green,88,1.7027027027027026,0.7621621621621621
+103,economics,26,Psychology & Neuroscience,49.50904,123.650986,-8.565589,Psychology & Neuroscience,green,89,1.6993243243243243,0.7594594594594595
+106,visualization,25,Psychology & Neuroscience,146.79891999999998,-8.380872,-83.74703000000001,Psychology & Neuroscience,green,90,1.695945945945946,0.7567567567567568
+107,gender,25,Psychology & Neuroscience,52.11188,147.00523,81.29106,Psychology & Neuroscience,green,91,1.6925675675675675,0.7540540540540541
+108,health-psychology,25,Psychology & Neuroscience,61.250114,-22.294811,14.844643,Psychology & Neuroscience,green,92,1.689189189189189,0.7513513513513514
+110,positive-psychology,25,Psychology & Neuroscience,73.84832,-72.81367,-53.445719999999994,Psychology & Neuroscience,green,93,1.685810810810811,0.7486486486486488
+111,rationality,24,Psychology & Neuroscience,77.35055,-44.810432,-19.534879999999998,Psychology & Neuroscience,green,94,1.6824324324324325,0.7459459459459461
+112,psychoanalysis,24,Psychology & Neuroscience,154.3162,-40.167675,12.272414,Psychology & Neuroscience,green,95,1.679054054054054,0.7432432432432432
+113,hypnosis,23,Psychology & Neuroscience,17.817116,-108.31571000000001,170.42911,Psychology & Neuroscience,green,96,1.6756756756756757,0.7405405405405405
+114,speech,23,Psychology & Neuroscience,79.37585,-115.74374399999999,-67.151535,Psychology & Neuroscience,green,97,1.6722972972972974,0.7378378378378379
+116,mood,23,Psychology & Neuroscience,133.33123999999998,-110.93121000000001,-34.191925,Psychology & Neuroscience,green,98,1.6689189189189189,0.7351351351351352
+117,gamification,23,Psychology & Neuroscience,-11.606689999999999,29.459996999999998,-177.72124,Psychology & Neuroscience,green,99,1.6655405405405406,0.7324324324324325
+118,short-term-memory,23,Psychology & Neuroscience,106.75781,-21.27931,14.796406,Psychology & Neuroscience,green,100,1.6621621621621623,0.7297297297297298
+119,metacognition,22,Psychology & Neuroscience,152.20316,22.030407,-46.623955,Psychology & Neuroscience,green,101,1.6587837837837838,0.7270270270270269
+120,social-networks,22,Psychology & Neuroscience,16.4401,117.33783000000001,57.98737,Psychology & Neuroscience,green,102,1.6554054054054053,0.7243243243243245
+121,behavioral-economics,22,Psychology & Neuroscience,61.489113,34.569977,180.44702,Psychology & Neuroscience,green,103,1.652027027027027,0.7216216216216216
+122,nef,22,Psychology & Neuroscience,-113.70133,-90.96106999999999,-84.440285,Psychology & Neuroscience,green,104,1.6486486486486487,0.7189189189189189
+124,personality-disorder,21,Psychology & Neuroscience,55.72919,13.708946,7.285898700000001,Psychology & Neuroscience,green,105,1.6452702702702702,0.7162162162162162
+123,perceptual-learning,21,Psychology & Neuroscience,-43.946335,47.803867,91.43661,Psychology & Neuroscience,green,106,1.6418918918918919,0.7135135135135136
+127,hci,20,Psychology & Neuroscience,82.302086,-6.082799400000001,-27.276916999999997,Psychology & Neuroscience,green,107,1.6385135135135136,0.7108108108108109
+128,hallucinations,20,Psychology & Neuroscience,-61.453537,153.32568,-51.544616999999995,Psychology & Neuroscience,green,108,1.635135135135135,0.7081081081081082
+129,signal-processing,20,Psychology & Neuroscience,39.558422,16.492859,147.38608,Psychology & Neuroscience,green,109,1.6317567567567568,0.7054054054054053
+126,aesthetics,20,Psychology & Neuroscience,13.741119,30.922396000000003,-41.927296000000005,Psychology & Neuroscience,green,110,1.6283783783783785,0.7027027027027029
+130,brain-computer-interface,19,Psychology & Neuroscience,4.004028,86.524925,-91.40203000000001,Psychology & Neuroscience,green,111,1.625,0.7
+131,lateralization,19,Psychology & Neuroscience,-141.4944,20.485685,-107.46822,Psychology & Neuroscience,green,112,1.6216216216216215,0.6972972972972974
+132,parenting,19,Psychology & Neuroscience,-33.519165,41.642379999999996,-4.017526,Psychology & Neuroscience,green,113,1.6182432432432432,0.6945945945945946
+133,sensory-perception,18,Psychology & Neuroscience,12.02823,35.661495,38.197037,Psychology & Neuroscience,green,114,1.614864864864865,0.6918918918918919
+134,aspergers,18,Psychology & Neuroscience,-106.73857,-73.10933,15.168906,Psychology & Neuroscience,green,115,1.6114864864864864,0.6891891891891893
+135,self,18,Psychology & Neuroscience,24.618639,-111.0616,-219.81805,Psychology & Neuroscience,green,116,1.6081081081081081,0.6864864864864866
+140,sociology,17,Psychology & Neuroscience,68.84352,104.55578,1.103119,Psychology & Neuroscience,green,117,1.6047297297297298,0.6837837837837839
+144,moral-psychology,17,Psychology & Neuroscience,16.284616,-92.94066,-14.394126000000002,Psychology & Neuroscience,green,118,1.6013513513513513,0.6810810810810811
+143,brain-injury,17,Psychology & Neuroscience,-22.879089999999998,3.0552862000000003,-14.315469,Psychology & Neuroscience,green,119,1.597972972972973,0.6783783783783783
+141,empathy,17,Psychology & Neuroscience,-0.34367687,158.88985,51.43523,Psychology & Neuroscience,green,120,1.5945945945945947,0.6756756756756757
+142,love,17,Psychology & Neuroscience,48.87334,94.73924,84.51856,Psychology & Neuroscience,green,121,1.5912162162162162,0.672972972972973
+139,concentration,17,Psychology & Neuroscience,-103.118645,131.24733,38.305896999999995,Psychology & Neuroscience,green,122,1.5878378378378377,0.6702702702702703
+137,thought,17,Psychology & Neuroscience,-29.424088,50.679584999999996,50.664640000000006,Psychology & Neuroscience,green,123,1.5844594594594594,0.6675675675675676
+136,game-theory,17,Psychology & Neuroscience,67.98703,-31.821732,-64.47155,Psychology & Neuroscience,green,124,1.5810810810810811,0.6648648648648648
+138,aging,17,Psychology & Neuroscience,-82.23791999999999,63.560425,76.03166999999999,Psychology & Neuroscience,green,125,1.5777027027027026,0.6621621621621623
+148,nature-nurture,16,Psychology & Neuroscience,47.295963,52.457733,30.125929,Psychology & Neuroscience,green,126,1.5743243243243243,0.6594594594594595
+151,self-control,16,Psychology & Neuroscience,1.6287023,-61.081683999999996,-103.32369,Psychology & Neuroscience,green,127,1.570945945945946,0.6567567567567568
+152,correlation,16,Psychology & Neuroscience,-56.52437,-84.90929,-2.3314047,Psychology & Neuroscience,green,128,1.5675675675675675,0.654054054054054
+147,feeding,16,Psychology & Neuroscience,-18.257977,-117.55678999999999,-6.1613703,Psychology & Neuroscience,green,129,1.564189189189189,0.6513513513513514
+146,jung,16,Psychology & Neuroscience,-177.83102,522.2213,76.217155,Psychology & Neuroscience,green,130,1.560810810810811,0.6486486486486487
+145,training,16,Psychology & Neuroscience,10.931938,-115.32258,-128.4826,Psychology & Neuroscience,green,131,1.5574324324324325,0.645945945945946
+154,political-psychology,15,Psychology & Neuroscience,21.7444,9.140399,98.451385,Psychology & Neuroscience,green,132,1.554054054054054,0.6432432432432433
+155,video-games,15,Psychology & Neuroscience,-21.636868,43.765335,-53.730553,Psychology & Neuroscience,green,133,1.5506756756756757,0.6405405405405405
+156,dopamine,15,Psychology & Neuroscience,-100.37769,-39.715992,48.61163,Psychology & Neuroscience,green,134,1.5472972972972974,0.6378378378378378
+158,cognitive-development,15,Psychology & Neuroscience,74.42662,28.073563,-72.696976,Psychology & Neuroscience,green,135,1.5439189189189189,0.6351351351351352
+159,attitudes,15,Psychology & Neuroscience,6.5104594,102.733315,150.08871000000002,Psychology & Neuroscience,green,136,1.5405405405405406,0.6324324324324324
+160,recognition,14,Psychology & Neuroscience,-91.60414,24.264433,26.713520000000003,Psychology & Neuroscience,green,137,1.5371621621621623,0.6297297297297297
+163,therapy,14,Psychology & Neuroscience,140.10806000000002,-62.92779,-27.889389,Psychology & Neuroscience,green,138,1.5337837837837838,0.6270270270270271
+164,religion,14,Psychology & Neuroscience,12.500736,80.058174,-130.64146000000002,Psychology & Neuroscience,green,139,1.5304054054054053,0.6243243243243244
+172,habituation,13,Psychology & Neuroscience,137.49712,63.97121,-71.98574,Psychology & Neuroscience,green,140,1.527027027027027,0.6216216216216217
+170,connectionism,13,Psychology & Neuroscience,87.03811,-129.16468999999998,-107.49689,Psychology & Neuroscience,green,141,1.5236486486486487,0.6189189189189189
+173,exercise,13,Psychology & Neuroscience,24.915379,-159.64131,-67.29859,Psychology & Neuroscience,green,142,1.5202702702702702,0.6162162162162163
+171,ptsd,13,Psychology & Neuroscience,-73.40654,45.33902,-105.304344,Psychology & Neuroscience,green,143,1.5168918918918919,0.6135135135135135
+174,writing,13,Psychology & Neuroscience,-67.924934,-58.711525,-109.640724,Psychology & Neuroscience,green,144,1.5135135135135136,0.6108108108108108
+169,reward,13,Psychology & Neuroscience,-19.99717,-70.16973,72.30261,Psychology & Neuroscience,green,145,1.510135135135135,0.6081081081081081
+167,self-discipline,13,Psychology & Neuroscience,17.61895,-18.322607,-122.84263999999999,Psychology & Neuroscience,green,146,1.5067567567567568,0.6054054054054054
+166,phobia,13,Psychology & Neuroscience,-143.45709,81.08924,58.855185999999996,Psychology & Neuroscience,green,147,1.5033783783783785,0.6027027027027028
+168,bayesian,13,Psychology & Neuroscience,165.8818,60.066593000000005,-3.0517604,Psychology & Neuroscience,green,148,1.5,0.6000000000000001
+176,validation,12,Psychology & Neuroscience,94.495285,-86.28603000000001,-11.837319,Psychology & Neuroscience,green,149,1.4966216216216215,0.5972972972972974
+177,analysis,12,Psychology & Neuroscience,139.61383,-90.407524,17.395982999999998,Psychology & Neuroscience,green,150,1.4932432432432432,0.5945945945945946
+178,humour,12,Psychology & Neuroscience,116.52098000000001,79.06964,-35.79573,Psychology & Neuroscience,green,151,1.489864864864865,0.5918918918918918
+179,deception,12,Psychology & Neuroscience,-22.327820000000003,-76.58189399999999,14.436128,Psychology & Neuroscience,green,152,1.4864864864864864,0.5891891891891892
+180,cognition,12,Psychology & Neuroscience,-105.6416,105.71863,89.229355,Psychology & Neuroscience,green,153,1.4831081081081081,0.5864864864864865
+187,social-cognition,11,Psychology & Neuroscience,-131.87312,-13.573479,-41.41361,Psychology & Neuroscience,green,154,1.4797297297297298,0.5837837837837838
+193,synesthesia,11,Psychology & Neuroscience,9.607574000000001,-131.7354,102.029945,Psychology & Neuroscience,green,155,1.4763513513513513,0.5810810810810811
+192,psychosis,11,Psychology & Neuroscience,-50.99282,-10.874673,158.41505,Psychology & Neuroscience,green,156,1.472972972972973,0.5783783783783785
+190,neuropsychology,11,Psychology & Neuroscience,36.34625,71.75151,-52.36357,Psychology & Neuroscience,green,157,1.4695945945945945,0.5756756756756757
+188,introversion,11,Psychology & Neuroscience,-47.661358,-104.01491,59.245396,Psychology & Neuroscience,green,158,1.4662162162162162,0.572972972972973
+191,drugs,11,Psychology & Neuroscience,-27.456238,-29.466143,-143.45276,Psychology & Neuroscience,green,159,1.4628378378378377,0.5702702702702703
+186,spm,11,Psychology & Neuroscience,72.89480999999999,-78.70364000000001,140.63358,Psychology & Neuroscience,green,160,1.4594594594594594,0.5675675675675675
+181,arousal,11,Psychology & Neuroscience,-44.620255,-106.22948999999998,109.76555,Psychology & Neuroscience,green,161,1.4560810810810811,0.5648648648648649
+184,task-analysis,11,Psychology & Neuroscience,-130.54001,-44.291653000000004,-11.714952,Psychology & Neuroscience,green,162,1.4527027027027026,0.5621621621621622
+182,expertise,11,Psychology & Neuroscience,-56.97999599999999,93.02078,-57.947617,Psychology & Neuroscience,green,163,1.4493243243243243,0.5594594594594595
+185,spa,11,Psychology & Neuroscience,-27.236809,-35.61226,13.59743,Psychology & Neuroscience,green,164,1.445945945945946,0.5567567567567568
+199,semantic-memory,10,Psychology & Neuroscience,41.29708,43.311363,79.47176,Psychology & Neuroscience,green,165,1.4425675675675675,0.5540540540540542
+203,alcohol,10,Psychology & Neuroscience,14.436670999999999,-188.78755,-6.424322,Psychology & Neuroscience,green,166,1.4391891891891893,0.5513513513513514
+202,cognitive-dissonance,10,Psychology & Neuroscience,9.449658,-58.190426,-14.337138000000001,Psychology & Neuroscience,green,167,1.4358108108108107,0.5486486486486486
+201,social-desirability,10,Psychology & Neuroscience,-134.49828,42.146606,-23.06319,Psychology & Neuroscience,green,168,1.4324324324324325,0.5459459459459459
+200,aggression,10,Psychology & Neuroscience,1.8120661,-91.41538,132.33131,Psychology & Neuroscience,green,169,1.429054054054054,0.5432432432432432
+198,positive-thinking,10,Psychology & Neuroscience,-128.93881000000002,-77.43084,-35.042225,Psychology & Neuroscience,green,170,1.4256756756756757,0.5405405405405406
+197,intuition,10,Psychology & Neuroscience,119.21121000000001,16.988749,41.8271,Psychology & Neuroscience,green,171,1.4222972972972974,0.5378378378378379
+196,categorisation,10,Psychology & Neuroscience,-64.93465400000001,35.90164,37.059143,Psychology & Neuroscience,green,172,1.4189189189189189,0.5351351351351352
+195,ideation,10,Psychology & Neuroscience,-40.968884,89.89516,-129.15848,Psychology & Neuroscience,green,173,1.4155405405405406,0.5324324324324325
+194,serotonin,10,Psychology & Neuroscience,90.64519,-18.917519,51.847008,Psychology & Neuroscience,green,174,1.4121621621621623,0.5297297297297298
+213,executive-function,9,Psychology & Neuroscience,-28.91116,-73.67815,-33.160133,Psychology & Neuroscience,green,175,1.4087837837837838,0.5270270270270271
+208,anthropology,9,Psychology & Neuroscience,92.95187,100.16375,11.626395,Psychology & Neuroscience,green,176,1.4054054054054055,0.5243243243243243
+210,social-neuroscience,9,Psychology & Neuroscience,36.09596,-4.778025,40.27514,Psychology & Neuroscience,green,177,1.402027027027027,0.5216216216216216
+209,priming,9,Psychology & Neuroscience,-85.32503,89.0816,25.10841,Psychology & Neuroscience,green,178,1.3986486486486487,0.518918918918919
+211,big-five,9,Psychology & Neuroscience,-58.789593,-63.575954,49.820557,Psychology & Neuroscience,green,179,1.3952702702702702,0.5162162162162163
+207,preferences,9,Psychology & Neuroscience,-16.731268,80.53868,143.34349,Psychology & Neuroscience,green,180,1.3918918918918919,0.5135135135135136
+204,neuro-transmitters,9,Psychology & Neuroscience,47.7174,-11.139986,74.96204,Psychology & Neuroscience,green,181,1.3885135135135136,0.5108108108108108
+206,procedural-memory,9,Psychology & Neuroscience,8.980422,-15.994910999999998,77.39749,Psychology & Neuroscience,green,182,1.385135135135135,0.5081081081081081
+205,confidence,9,Psychology & Neuroscience,78.41655,-133.36563,116.66315,Psychology & Neuroscience,green,183,1.3817567567567568,0.5054054054054055
+224,stimulation,8,Psychology & Neuroscience,-99.45837,-111.02001000000001,-22.895857,Psychology & Neuroscience,green,184,1.3783783783783785,0.5027027027027027
+230,untagged,8,Psychology & Neuroscience,125.85021,-12.869963,78.157814,Psychology & Neuroscience,green,185,1.375,0.5
+229,sampling,8,Psychology & Neuroscience,52.714622,-109.553955,6.522539,Psychology & Neuroscience,green,186,1.3716216216216215,0.4972972972972973
+228,automaticity,8,Psychology & Neuroscience,138.23003,60.223064,37.364574,Psychology & Neuroscience,green,187,1.3682432432432432,0.4945945945945946
+227,dynamic-systems,8,Psychology & Neuroscience,56.75414,13.932445999999999,107.22838600000001,Psychology & Neuroscience,green,188,1.364864864864865,0.4918918918918919
+226,placebo,8,Psychology & Neuroscience,-21.281685,-154.35915,-69.390625,Psychology & Neuroscience,green,189,1.3614864864864864,0.48918918918918924
+216,mbti,8,Psychology & Neuroscience,49.426594,-21.330639,126.34036,Psychology & Neuroscience,green,190,1.3581081081081081,0.4864864864864865
+225,procrastination,8,Psychology & Neuroscience,-66.57838000000001,-46.11218,11.299989,Psychology & Neuroscience,green,191,1.3547297297297298,0.4837837837837838
+222,episodic-memory,8,Psychology & Neuroscience,-2.9535139999999998,-16.00773,138.05685,Psychology & Neuroscience,green,192,1.3513513513513513,0.4810810810810811
+220,attribution,8,Psychology & Neuroscience,-71.92974,15.844314,68.18587,Psychology & Neuroscience,green,193,1.347972972972973,0.47837837837837843
+219,leadership,8,Psychology & Neuroscience,114.483795,-107.44855,70.04556,Psychology & Neuroscience,green,194,1.3445945945945945,0.4756756756756757
+218,synchronization,8,Psychology & Neuroscience,12.071962,21.986908,-0.1916868,Psychology & Neuroscience,green,195,1.3412162162162162,0.472972972972973
+217,neurogenesis,8,Psychology & Neuroscience,10.08314,-103.88316,32.28602,Psychology & Neuroscience,green,196,1.3378378378378377,0.4702702702702703
+223,norms,8,Psychology & Neuroscience,-3.3564239999999996,96.61712,107.10676000000001,Psychology & Neuroscience,green,197,1.3344594594594594,0.46756756756756757
+235,persuasion,7,Psychology & Neuroscience,-52.184967,-128.68735,-103.45655,Psychology & Neuroscience,green,198,1.3310810810810811,0.4648648648648649
+238,attraction,7,Psychology & Neuroscience,33.731903,-54.71985,102.63861,Psychology & Neuroscience,green,199,1.3277027027027026,0.4621621621621622
+236,extroversion,7,Psychology & Neuroscience,-37.72121,-113.82096000000001,39.333164000000004,Psychology & Neuroscience,green,200,1.3243243243243243,0.4594594594594595
+234,cognitive,7,Psychology & Neuroscience,-115.56002,73.811806,109.72867,Psychology & Neuroscience,green,201,1.320945945945946,0.45675675675675675
+232,reliability,7,Psychology & Neuroscience,-127.84223,6.8855557,87.40522,Psychology & Neuroscience,green,202,1.3175675675675675,0.4540540540540541
+231,cross-modal,7,Psychology & Neuroscience,-123.6717,84.39894,0.99375933,Psychology & Neuroscience,green,203,1.3141891891891893,0.4513513513513514
+245,psychoacoustics,6,Psychology & Neuroscience,-19.302492,109.38715,19.682781,Psychology & Neuroscience,green,204,1.3108108108108107,0.44864864864864873
+251,mnemonic,6,Psychology & Neuroscience,52.420696,-154.78787,8.818289,Psychology & Neuroscience,green,205,1.3074324324324325,0.44594594594594594
+249,transfer,6,Psychology & Neuroscience,51.762714,-66.81288,8.299071000000001,Psychology & Neuroscience,green,206,1.304054054054054,0.44324324324324327
+246,encoding,6,Psychology & Neuroscience,-106.91105,56.141727,33.528233,Psychology & Neuroscience,green,207,1.3006756756756757,0.4405405405405406
+247,devices,6,Psychology & Neuroscience,60.295193000000005,40.16618,-120.60445,Psychology & Neuroscience,green,208,1.2972972972972974,0.43783783783783786
+244,publication,6,Psychology & Neuroscience,38.362159999999996,-8.618457000000001,-20.6503,Psychology & Neuroscience,green,209,1.2939189189189189,0.4351351351351352
+242,meta-analysis,6,Psychology & Neuroscience,-48.644363,169.42677,3.9978067999999998,Psychology & Neuroscience,green,210,1.2905405405405406,0.43243243243243246
+241,medication,6,Psychology & Neuroscience,-13.334935999999999,-10.348768,240.26727000000002,Psychology & Neuroscience,green,211,1.2871621621621623,0.4297297297297298
+240,workload,6,Psychology & Neuroscience,-83.69679000000001,-12.590467,125.00931499999999,Psychology & Neuroscience,green,212,1.2837837837837838,0.42702702702702705
+239,awareness,6,Psychology & Neuroscience,-73.39171,-108.3837,-71.62416999999999,Psychology & Neuroscience,green,213,1.2804054054054055,0.4243243243243243
+267,meg,5,Psychology & Neuroscience,-110.73611499999998,20.78951,-64.04389,Psychology & Neuroscience,green,214,1.277027027027027,0.42162162162162165
+266,willpower,5,Psychology & Neuroscience,29.488353999999998,-39.896564,-111.18886599999999,Psychology & Neuroscience,green,215,1.2736486486486487,0.4189189189189189
+265,commitment,5,Psychology & Neuroscience,92.80024,-83.768585,86.44823000000001,Psychology & Neuroscience,green,216,1.2702702702702702,0.41621621621621624
+264,qualia,5,Psychology & Neuroscience,111.379974,40.053993,66.06024000000001,Psychology & Neuroscience,green,217,1.2668918918918919,0.4135135135135135
+263,neuromarketing,5,Psychology & Neuroscience,58.933125,42.265514,-40.68627,Psychology & Neuroscience,green,218,1.2635135135135136,0.41081081081081083
+262,freud,5,Psychology & Neuroscience,4.4046449999999995,159.88893000000002,4.257716,Psychology & Neuroscience,green,219,1.260135135135135,0.40810810810810816
+260,event-related-potential,5,Psychology & Neuroscience,22.83925,17.584267,-91.72069,Psychology & Neuroscience,green,220,1.2567567567567568,0.40540540540540543
+259,ethics,5,Psychology & Neuroscience,88.80274,52.134495,-12.9869585,Psychology & Neuroscience,green,221,1.2533783783783785,0.4027027027027027
+256,goals,5,Psychology & Neuroscience,-28.464863,115.001205,94.79899999999999,Psychology & Neuroscience,green,222,1.25,0.4
+254,altruism,5,Psychology & Neuroscience,36.639416,7.051498,-139.6587,Psychology & Neuroscience,green,223,1.2466216216216217,0.39729729729729735
+253,free-will,5,Psychology & Neuroscience,58.611571999999995,-44.309647,50.19511,Psychology & Neuroscience,green,224,1.2432432432432432,0.3945945945945946
+252,ltp,5,Psychology & Neuroscience,-145.02286999999998,-40.534843,95.79298399999999,Psychology & Neuroscience,green,225,1.239864864864865,0.3918918918918919
+258,twin-study,5,Psychology & Neuroscience,35.887108000000005,-61.251705,-73.98984499999999,Psychology & Neuroscience,green,226,1.2364864864864864,0.3891891891891892
+273,multi-tasking,4,Psychology & Neuroscience,190.90836000000002,408.37726000000004,-15.711549,Psychology & Neuroscience,green,227,1.2331081081081081,0.38648648648648654
+280,body-language,4,Psychology & Neuroscience,-62.451687,4.3530335,-1.5198741000000002,Psychology & Neuroscience,green,228,1.2297297297297298,0.3837837837837838
+279,mirror-neurons,4,Psychology & Neuroscience,41.864212,65.12154,-90.67888,Psychology & Neuroscience,green,229,1.2263513513513513,0.3810810810810811
+277,alzheimer,4,Psychology & Neuroscience,16.206282,171.6361,-46.696766,Psychology & Neuroscience,green,230,1.222972972972973,0.3783783783783784
+276,biofeedback,4,Psychology & Neuroscience,17.260513,-114.22200000000001,-88.33408,Psychology & Neuroscience,green,231,1.2195945945945945,0.3756756756756757
+275,diagnosis,4,Psychology & Neuroscience,-2.4818826,47.33084,-91.4996,Psychology & Neuroscience,green,232,1.2162162162162162,0.372972972972973
+272,act-r,4,Psychology & Neuroscience,80.274376,-56.28833,-106.488556,Psychology & Neuroscience,green,233,1.2128378378378377,0.37027027027027026
+271,model,4,Psychology & Neuroscience,-52.716457,140.9224,53.52991,Psychology & Neuroscience,green,234,1.2094594594594594,0.3675675675675676
+270,collaboration,4,Psychology & Neuroscience,142.3024,-63.26113,-85.0321,Psychology & Neuroscience,green,235,1.2060810810810811,0.3648648648648649
+269,social,4,Psychology & Neuroscience,65.46365,108.06828999999999,130.31528,Psychology & Neuroscience,green,236,1.2027027027027026,0.3621621621621622
+268,situation-awareness,4,Psychology & Neuroscience,-31.069363,-12.99387,98.09102,Psychology & Neuroscience,green,237,1.1993243243243243,0.35945945945945945
+290,p300,3,Psychology & Neuroscience,-175.56053,-6.154013,-20.912579,Psychology & Neuroscience,green,238,1.195945945945946,0.3567567567567568
+299,extraversion,3,Psychology & Neuroscience,-7.2651452999999995,-3.8157248,29.178340000000002,Psychology & Neuroscience,green,239,1.1925675675675675,0.3540540540540541
+298,amnesia,3,Psychology & Neuroscience,-59.50080500000001,133.44467,-105.78155,Psychology & Neuroscience,green,240,1.1891891891891893,0.35135135135135137
+294,neuroticism,3,Psychology & Neuroscience,-31.5141,8.797519,27.006317,Psychology & Neuroscience,green,241,1.1858108108108107,0.34864864864864864
+293,nlp,3,Psychology & Neuroscience,112.04401000000001,-34.456734000000004,-125.42728999999999,Psychology & Neuroscience,green,242,1.1824324324324325,0.34594594594594597
+292,oxytocin,3,Psychology & Neuroscience,-104.59600999999999,-25.572432,22.220660000000002,Psychology & Neuroscience,green,243,1.179054054054054,0.3432432432432433
+291,epilepsy,3,Psychology & Neuroscience,-25.10834,133.34048,-67.81071999999999,Psychology & Neuroscience,green,244,1.1756756756756757,0.34054054054054056
+286,imagery,3,Psychology & Neuroscience,-98.46056,-9.058296,-133.35913,Psychology & Neuroscience,green,245,1.1722972972972974,0.33783783783783783
+288,trust,3,Psychology & Neuroscience,-1.4520942,156.71465,99.07974,Psychology & Neuroscience,green,246,1.1689189189189189,0.33513513513513515
+281,heart-rate-variability,3,Psychology & Neuroscience,25.794698999999998,-14.068123000000002,-70.39329000000001,Psychology & Neuroscience,green,247,1.1655405405405406,0.3324324324324325
+285,matlab,3,Psychology & Neuroscience,-100.80463,-138.37736999999998,58.85306,Psychology & Neuroscience,green,248,1.1621621621621623,0.32972972972972975
+284,homework,3,Psychology & Neuroscience,-71.79755,-46.593815,-149.15321,Psychology & Neuroscience,green,249,1.1587837837837838,0.327027027027027
+283,eating-disorders,3,Psychology & Neuroscience,4.2953987,44.51052,78.83941,Psychology & Neuroscience,green,250,1.1554054054054055,0.32432432432432434
+282,testosterone,3,Psychology & Neuroscience,182.49385,-2.3380396,-2.0096726,Psychology & Neuroscience,green,251,1.152027027027027,0.32162162162162167
+287,anchoring,3,Psychology & Neuroscience,-57.269047,-16.410994,56.239284999999995,Psychology & Neuroscience,green,252,1.1486486486486487,0.31891891891891894
+316,ipip,2,Psychology & Neuroscience,75.80613000000001,59.475525,71.668976,Psychology & Neuroscience,green,253,1.1452702702702702,0.3162162162162162
+317,cueing,2,Psychology & Neuroscience,-67.07291,76.74116500000001,11.87918,Psychology & Neuroscience,green,254,1.1418918918918919,0.31351351351351353
+318,tdcs,2,Psychology & Neuroscience,-88.27619,-90.30291,-29.866047,Psychology & Neuroscience,green,255,1.1385135135135136,0.31081081081081086
+319,ego-depletion,2,Psychology & Neuroscience,22.37548,53.87429,124.59407,Psychology & Neuroscience,green,256,1.135135135135135,0.3081081081081081
+320,touch,2,Psychology & Neuroscience,-35.115913,-156.78638999999998,78.2296,Psychology & Neuroscience,green,257,1.1317567567567568,0.3054054054054054
+325,sentiment-analysis,2,Psychology & Neuroscience,-13.099578,20.144645999999998,100.524704,Psychology & Neuroscience,green,258,1.1283783783783783,0.3027027027027027
+321,obedience,2,Psychology & Neuroscience,54.588969999999996,-83.09955,52.333023,Psychology & Neuroscience,green,259,1.125,0.30000000000000004
+324,apa-style,2,Psychology & Neuroscience,47.680786,7.131155499999999,-48.906420000000004,Psychology & Neuroscience,green,260,1.1216216216216217,0.2972972972972973
+326,incentives,2,Psychology & Neuroscience,136.30182,-61.685753000000005,107.04863,Psychology & Neuroscience,green,261,1.1182432432432432,0.2945945945945946
+327,nicotine,2,Psychology & Neuroscience,-163.03255,-1.6024786,53.73893,Psychology & Neuroscience,green,262,1.114864864864865,0.2918918918918919
+314,halo-effect,2,Psychology & Neuroscience,-11.008466,28.139933000000003,135.29648,Psychology & Neuroscience,green,263,1.1114864864864864,0.28918918918918923
+315,wisdom-of-crowds,2,Psychology & Neuroscience,-52.505756000000005,-118.30148,-29.667131,Psychology & Neuroscience,green,264,1.1081081081081081,0.2864864864864865
+306,ecg,2,Psychology & Neuroscience,-69.27181,-17.03656,-68.27107,Psychology & Neuroscience,green,265,1.1047297297297298,0.28378378378378377
+312,regression,2,Psychology & Neuroscience,102.52478,-143.87383,-13.796325,Psychology & Neuroscience,green,266,1.1013513513513513,0.2810810810810811
+305,human-error,2,Psychology & Neuroscience,-18.19716,10.616247999999999,64.93628000000001,Psychology & Neuroscience,green,267,1.097972972972973,0.2783783783783784
+311,coordination,2,Psychology & Neuroscience,-98.95204,47.473316,-141.70622,Psychology & Neuroscience,green,268,1.0945945945945945,0.2756756756756757
+301,pathology,2,Psychology & Neuroscience,25.352207,95.00633,17.041933,Psychology & Neuroscience,green,269,1.0912162162162162,0.27297297297297296
+302,compulsive,2,Psychology & Neuroscience,69.80069,18.563755,54.236847,Psychology & Neuroscience,green,270,1.087837837837838,0.2702702702702703
+304,definition,2,Psychology & Neuroscience,58.09506,74.02521999999999,-153.02184,Psychology & Neuroscience,green,271,1.0844594594594594,0.2675675675675676
+300,cbt,2,Psychology & Neuroscience,-6.8364387,-107.73293000000001,-54.325669999999995,Psychology & Neuroscience,green,272,1.0810810810810811,0.2648648648648649
+307,causal-inference,2,Psychology & Neuroscience,11.391229,-60.301533,30.106907,Psychology & Neuroscience,green,273,1.0777027027027026,0.2621621621621622
+308,hippocampus,2,Psychology & Neuroscience,-124.71913,-34.272220000000004,74.47105400000001,Psychology & Neuroscience,green,274,1.0743243243243243,0.2594594594594595
+309,cognitive-load,2,Psychology & Neuroscience,-57.670173999999996,18.703522,107.771805,Psychology & Neuroscience,green,275,1.070945945945946,0.2567567567567568
+310,racism,2,Psychology & Neuroscience,37.454502000000005,123.73688500000002,-65.72111,Psychology & Neuroscience,green,276,1.0675675675675675,0.25405405405405407
+337,compliance,1,Psychology & Neuroscience,146.98161000000002,-60.086369999999995,62.403454,Psychology & Neuroscience,green,277,1.0641891891891893,0.25135135135135134
+346,adaptation,1,Psychology & Neuroscience,-14.937712,-52.234646000000005,-63.36318000000001,Psychology & Neuroscience,green,278,1.0608108108108107,0.24864864864864866
+344,risk-reward,1,Psychology & Neuroscience,98.22524,-62.868866000000004,32.770965999999994,Psychology & Neuroscience,green,279,1.0574324324324325,0.24594594594594596
+343,evoked-potentials,1,Psychology & Neuroscience,97.869,23.957575,-39.145893,Psychology & Neuroscience,green,280,1.054054054054054,0.24324324324324326
+342,typing,1,Psychology & Neuroscience,-63.29111999999999,-62.175266,-57.20522,Psychology & Neuroscience,green,281,1.0506756756756757,0.24054054054054055
+341,temporal-context,1,Psychology & Neuroscience,-90.2468,41.945026,-11.696547,Psychology & Neuroscience,green,282,1.0472972972972974,0.23783783783783785
+340,ecog,1,Psychology & Neuroscience,208.30478,166.6251,-121.33577,Psychology & Neuroscience,green,283,1.0439189189189189,0.23513513513513515
+339,violence,1,Psychology & Neuroscience,66.17628,-42.188988,-157.12955,Psychology & Neuroscience,green,284,1.0405405405405406,0.23243243243243245
+338,olfaction,1,Psychology & Neuroscience,106.02609,95.07704,77.87810999999999,Psychology & Neuroscience,green,285,1.037162162162162,0.22972972972972974
+332,learned-helplessness,1,Psychology & Neuroscience,20.642212,-41.127815000000005,59.251984,Psychology & Neuroscience,green,286,1.0337837837837838,0.22702702702702704
+336,etiology,1,Psychology & Neuroscience,42.40687,94.02450999999999,34.814796,Psychology & Neuroscience,green,287,1.0304054054054055,0.22432432432432434
+335,criminal,1,Psychology & Neuroscience,-44.29197,9.749467999999998,-43.152214,Psychology & Neuroscience,green,288,1.027027027027027,0.22162162162162163
+334,terms,1,Psychology & Neuroscience,-59.844359999999995,125.07435600000001,-2.796808,Psychology & Neuroscience,green,289,1.0236486486486487,0.21891891891891893
+333,criminology,1,Psychology & Neuroscience,74.65344,79.26158000000001,-8.206572999999999,Psychology & Neuroscience,green,290,1.0202702702702702,0.21621621621621623
+331,tappy,1,Psychology & Neuroscience,19.258469,13.96761,63.116572999999995,Psychology & Neuroscience,green,291,1.0168918918918919,0.21351351351351353
+330,pnse,1,Psychology & Neuroscience,-80.22408,-104.228516,24.876368,Psychology & Neuroscience,green,292,1.0135135135135136,0.21081081081081082
+329,interoception,1,Psychology & Neuroscience,-38.509246999999995,21.601654,-97.11279,Psychology & Neuroscience,green,293,1.010135135135135,0.20810810810810812
+328,vstm,1,Psychology & Neuroscience,-32.81088,94.77621500000001,-19.495832,Psychology & Neuroscience,green,294,1.0067567567567568,0.20540540540540542
+347,tinnitus,1,Psychology & Neuroscience,-44.777653,40.638874,-136.5375,Psychology & Neuroscience,green,295,1.0033783783783783,0.20270270270270271
