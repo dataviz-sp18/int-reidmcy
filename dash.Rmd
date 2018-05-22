@@ -5,18 +5,20 @@ runtime: shiny
 ---
 
 ```{r global, include=FALSE}
-df <- read.csv('tsne_Economics.csv')
+library(ggplot2)
+library(plotly)
+library(plyr)
+library(flexdashboard)
+df <- read.csv('data/tsne_Economics.csv')
 ```
 
 Column
 -----------------------------------------------------------------------
 
 ```{r}
-selectInput("n_breaks", label = "Number of bins:",
-            choices = c(10, 20, 35, 50), selected = 20)
-
-sliderInput("bw_adjust", label = "Bandwidth adjustment:",
-            min = 0.2, max = 2, value = 1, step = 0.2)
+p <- ggplot(df, aes(x=tsne_0, y=tsne_1)) +
+            geom_point(shape=1)      # Use hollow circles
+ggplotly(p)
 ```
 
 ```
