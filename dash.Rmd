@@ -126,14 +126,15 @@ df_target <- reactive({
 
 renderPlotly({
   if (input$choice == '3D') {
+    ax <- list(title = "")
     p <- plot_ly(df_target(), x=~tsne_0, y=~tsne_1, z=~tsne_2, color = ~colour_class, size = ~size_objs * 5,
                 hoverinfo = 'text', type='scatter3d',
                 text = ~paste('Tag: ', tag,
                   '\nSource: ', cName,
                   '\n Count: ', count,
                   '\n Rank: ', rank))
-    add_markers(p)
-    layout(p, showlegend = FALSE)
+    p<- add_markers(p)
+    p <- layout(p, showlegend = FALSE, scene = list(xaxis=ax,yaxis=ax,zaxis=ax))
     p
   } else {
     colour_val <- df_target()$colour_class
