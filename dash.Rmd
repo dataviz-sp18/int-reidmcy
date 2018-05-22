@@ -8,7 +8,15 @@ output:
     source_code: embed
 runtime: shiny
 ---
-
+<style>                     
+.navbar {
+  background-color:maroon;
+  border-color:black;
+}
+.navbar-brand {
+color:black!important;
+}
+</style>   
 ```{r global, include=FALSE}
 options(shiny.sanitize.errors = FALSE)
 library(ggplot2)
@@ -96,7 +104,7 @@ renderText({
 })
 ```
 
-Column
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### t-SNE embeding of Word2Vec space
