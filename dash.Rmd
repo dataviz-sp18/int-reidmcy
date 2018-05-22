@@ -94,7 +94,7 @@ renderText({
 
 renderText({
   if (input$choice == '3D') {
-    out <- "The 3D plot was very annoying to get running, and the customization options were either lacking or broken, thus the axis are still ugly and the legend festers in the corner. The plot is very useful though as by adding another dimension the embedding changes significantly, the spherical nature of the results is still very evident, but outliers start appearing which is quite interesting and visually intriguing. I tried getting a 3D version of the text running but every piece of text would have had to been placed individually in a big for loop and it was too slow and unreliable "
+    out <- "The 3D plot was very challenging to get running, and the customization options were either lacking or broken, thus the axis are still ugly and the legend festers in the corner. The plot is very useful though as by adding another dimension the embedding changes significantly, the spherical nature of the results is still very evident, but outliers start appearing which is quite interesting and visually intriguing. I tried getting a 3D version of the text running but every piece of text would have had to been placed individually in a big for loop and it was too slow and unreliable "
   } else if (input$choice == 'Text') {
   out <- "These are the closest plots to those in my thesis, although I was not able to get alpha scaling to work. The words do tend to overlap, but zooming in will solve that and besides very aggressive alpha or size scaling it's hard to fix. The words are scaled by the rank on stackexchange with the processing all being done by a Python script before R is even launched. The colours are also handled this way to give consistency across the different visuals."
   } else if (input$choice == 'Points') {
@@ -107,7 +107,7 @@ renderText({
 
 ### Conclusion
 
-This web app lets people interact with an word embedding in a more visual way then the normal comparison task. By letting the user pan and zoom though the space people can find their own small insights without being beholden to the original author. It also hopefully gives insights into the folly of low dimensional embedding of high dimensionless data, with the major differences between 2 and 3 dimensions.
+This web app lets people interact with an word embedding in a more visual way then the normal comparison task. By letting the user pan and zoom though the space people can find their own small insights without being beholden to the original author. It also hopefully gives insights into the folly of low dimensional embedding of high dimensionless data, with the major differences between 2 and 3 dimensions. The text and point plots show slightly different views, giving limited node specific information and density information respectively.
 
 Column 
 -----------------------------------------------------------------------
