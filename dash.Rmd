@@ -44,7 +44,7 @@ Column {.sidebar}
 -----------------------------------------------------------------------
 
 ```{r}
-selectInput('xcol', 'X Variable', names)
+selectInput('var', 'X Variable', names)
 ```
 
 Column
@@ -52,11 +52,14 @@ Column
 
 ### K Means
 ```{r}
-df <- reactive({
-  read.csv(paste(filesDir, df_attributes[input$xcol,'file'], sep = ''))
+df_target <- reactive({
+  read.csv(paste(filesDir, df_attributes[input$var,'file'], sep = ''))
 })
 
-renderPlot({ ggplot(df, aes(x=tsne_0, y=tsne_1,label=tag)) +
-            geom_text(nudge_x = 1, nudge_y = 1, size = 4, colour = df_attributes[targetName,'colour'])
+
+renderPlot({ 
+  tsne_plot <- ggplot(data = df_target(), aes(x=tsne_0, y=tsne_1, label=tag)) +
+          geom_text(size = 4)
+  tsne_plot
 })
 ```
