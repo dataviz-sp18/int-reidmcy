@@ -29,7 +29,7 @@ library(shinyWidgets)
 if (dir.exists('data/')) {
   filesDir <- 'data/'
 } else {
-  filesDir <- '/home/reid/int-reidmcy/data/'
+  filesDir <- '/home/reid/shiny/int-reidmcy/data/'
 }
 
 
